@@ -56,3 +56,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Video Link
 
 - https://drive.google.com/file/d/1X8ZxsnIs8NHbTpSlkOrF1ifysN1GL0aK/view?usp=sharing
+
+
+## Student Details 
+- Name : Charutha Herath
+- Gmail : charuthaherath456@gmail.com
+- Student ID : 2301671061
